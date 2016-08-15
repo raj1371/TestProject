@@ -9,6 +9,7 @@ import com.commonTest.TestBase;
 
 public class BookFlight2Test extends TestBase {
 
+	//test Book flight
 	@Test
 	public void BookFlightTest2way() throws IOException {
 
